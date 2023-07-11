@@ -1,0 +1,13 @@
+package main
+import "fmt"
+func main() {
+	// Grouping multiple variables at once
+	//var (
+	//	distance = 56000000
+	//	speed = 100800
+	//)
+
+	// Also you can declare multiple variables on a single line
+//	var distance, speed = 56000000, 100800
+
+	

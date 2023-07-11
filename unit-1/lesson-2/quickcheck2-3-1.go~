@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+
+func main() {
+	var travelSpeed = 100800.0 // km/h
+	var distance = 96300000.0  // km
+	fmt.Printf("It would take %v days to reach Mars", (distance/travelSpeed)/24.0)
+}
