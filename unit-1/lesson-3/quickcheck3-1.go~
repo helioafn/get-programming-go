@@ -1,6 +1,0 @@
-package main
-
-func main() {
-	// How you declare a Boolean variable named wearShades?
-	wearShades := false
-}
